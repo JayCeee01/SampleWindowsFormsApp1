@@ -17,7 +17,7 @@ namespace SampleWindowsFormsApp1
             InitializeComponent();
             label4.Visible = false;
             label5.Visible = false;
-            label12.Text = "This is an overwrite change in label, This will be a test for fetching";
+            label12.Text = "This is a overwrite change in label";
 
         }
 
